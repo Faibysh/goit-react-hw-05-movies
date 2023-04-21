@@ -1,0 +1,18 @@
+.button {
+  background: #3d3d3d;
+  color: #fff;
+  border-radius: 1.2em;
+  padding: 20px 40px;
+  margin: 10px;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 100px;
+  /* background-color: #717171; */
+  padding: 30px;
+}

@@ -1,0 +1,26 @@
+.title {
+  margin: 150px 0;
+  display: flex;
+  justify-content: center;
+
+}
+
+.movie {
+  padding-bottom: 15px;
+}
+
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+.movie-list {
+  justify-content: center;
+  column-count: 3;
+  text-align: left;
+  margin-left: 350px;
+}
+
+a {
+  color: white;
+}
